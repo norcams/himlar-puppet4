@@ -1,5 +1,0 @@
----
-# Both regions use the local identity service
-horizon::available_regions:
-  - [ "%{hiera('endpoint__identity__public')}/v3", "%{location}"]
-  - [ "https://identity.api.osl.uh-iaas.no:5000/v3", 'osl']

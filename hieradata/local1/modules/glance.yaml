@@ -1,3 +1,0 @@
----
-glance::db::mysql::allowed_hosts:
-  - "%{netpart_trp1}.%"

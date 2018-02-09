@@ -1,3 +1,0 @@
----
-rabbitmq::cluster_nodes:
-  - 'local3-mq-01'

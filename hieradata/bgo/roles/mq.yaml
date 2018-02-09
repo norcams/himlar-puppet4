@@ -1,3 +1,0 @@
----
-rabbitmq::cluster_nodes:
-  - 'bgo-mq-01'

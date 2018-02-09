@@ -1,2 +1,0 @@
----
-dpapp::keystone_cachain:  '/etc/pki/tls/certs/cachain.pem'

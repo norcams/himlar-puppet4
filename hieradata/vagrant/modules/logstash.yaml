@@ -1,3 +1,0 @@
----
-logstash::init_defaults:
-  LS_OPTS:  "--debug"

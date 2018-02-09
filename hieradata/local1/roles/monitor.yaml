@@ -1,3 +1,0 @@
----
-# Make check over https insecure
-sensu_ssl_cachain: '-k'

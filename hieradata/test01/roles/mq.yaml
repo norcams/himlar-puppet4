@@ -1,3 +1,0 @@
----
-rabbitmq::cluster_nodes:
-  - 'test01-mq-01'

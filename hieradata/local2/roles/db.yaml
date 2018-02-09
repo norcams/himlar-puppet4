@@ -1,5 +1,0 @@
----
-# Enable extra yum repo #FIXME
-profile::base::yumrepo::repo_hash:
-  mariadb:
-    ensure: present

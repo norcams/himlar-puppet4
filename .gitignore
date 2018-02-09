@@ -1,8 +1,0 @@
-*~
-*.swp
-/hieradata/secrets
-/modules/
-/vendor/
-.vagrant
-Gemfile.lock
-nodes.yaml.local

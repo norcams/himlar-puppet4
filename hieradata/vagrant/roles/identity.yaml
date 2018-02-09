@@ -1,6 +1,0 @@
----
-profile::openstack::identity::keystone_config:
-  'resource/project_name_url_safe':
-    value:  'off'
-  'resource/domain_name_url_safe':
-    value:  'new'

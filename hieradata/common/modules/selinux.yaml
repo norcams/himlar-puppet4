@@ -1,3 +1,0 @@
----
-selinux::mode:  'enforcing'
-selinux::type:  'targeted'

@@ -1,5 +1,0 @@
----
-cinder::db::mysql::allowed_hosts:
-  - "%{netpart_trp1}.%"
-
-cinder::debug: true

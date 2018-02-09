@@ -1,2 +1,0 @@
----
-neutron::keystone::authtoken::cafile: '/etc/pki/tls/certs/cachain.pem'

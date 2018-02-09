@@ -1,8 +1,0 @@
----
-horizon::horizon_ca:                    '/etc/pki/tls/certs/cachain.pem'
-horizon::ssl_no_verify:                 true
-
-# Both regions use the local identity service
-horizon::available_regions:
-  - [ "%{hiera('endpoint__identity__public')}/v3", "%{location}"]
-  - [ "https://identity.api.local2.iaas.intern:5000/v3", 'local2']

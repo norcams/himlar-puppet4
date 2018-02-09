@@ -1,8 +1,5 @@
-[![Build
-Status](https://api.travis-ci.org/norcams/himlar-puppet4.svg)](https://travis-ci.org/norcams/himlar-puppet4)
+himlar-puppet4 has been merged into himlar
+==========================================
 
-himlar
-======
-
-himlar m. plural indefinite of himmel
-
+himlar-puppet4 has been merged into https://github.com/norcams/himlar where it
+will continue to be developed.
